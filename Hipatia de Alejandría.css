@@ -1,0 +1,30 @@
+﻿body {
+  background-color:#FCF571;
+}
+h1 {
+  text-align:center;
+  color:#F6B300;
+}
+h4{
+ text-align:center;
+ margin-top: 10px;
+ margin-right: 30px;
+ margin-bottom: 10px;
+ margin-left: 30px;
+}
+p{
+ text-align:justify;
+ margin-top: 10px;
+ margin-right: 30px;
+ margin-bottom: 10px;
+ margin-left: 30px;
+}
+img{
+ float: left;
+ margin-bottom: 20px;
+ margin-left: 30px;
+ margin-right: 30px;
+}
+.primero {
+clear: both;
+}

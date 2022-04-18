@@ -1,0 +1,26 @@
+﻿table,td,tr{
+  border: black solid 2px;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  font-size: 25px;
+}
+td{
+ width: 250px;
+ height: 80px;
+}
+tbody,a{
+  text-align: center; 
+  color: #FF4D00;
+}
+body {
+ background-color:#FFBAAD;
+ text-align:justify;
+ margin-top: 50px;
+ margin-bottom: 50px;
+ text-align: center;
+}
+h1{
+  color: #EA0000
+}
