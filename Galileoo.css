@@ -1,0 +1,23 @@
+﻿body {
+  background-color:#CAA3FF;
+}
+h1 {
+  text-indent:170px;
+  color:#330077;
+}
+p{
+ text-align:justify;
+ margin-top: 10px;
+ margin-right: 30px;
+ margin-bottom: 10px;
+ margin-left: 30px;
+}
+img{
+ float: left;
+ margin-bottom: 20px;
+ margin-left: 30px;
+ margin-right: 30px;
+}
+
+.primero {
+clear: both;}
